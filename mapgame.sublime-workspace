@@ -1,0 +1,345 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "script.js",
+			"settings":
+			{
+				"buffer_size": 2606,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 713,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"selected_items":
+		[
+			[
+				"pcip",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/MUGI-NB/Desktop/err.txt",
+		"/C/Users/MUGI-NB/Desktop/mapgame/script.js",
+		"/C/Users/MUGI-NB/Desktop/mapgame/index.html",
+		"/C/Users/MUGI-NB/Desktop/mapgame/style.css",
+		"/C/Users/MUGI-NB/Desktop/mapgame/mapgame.js",
+		"/C/Users/MUGI-NB/Desktop/mapgame.js",
+		"/C/Users/MUGI-NB/Desktop/mapgame/readme.md",
+		"/C/Users/MUGI-NB/Desktop/botpay/BotPay/src/main/webapp/resources/js/config.js",
+		"/C/Users/MUGI-NB/Desktop/botpay/BotPay_Internal/src/main/webapp/resources/js/ServiceCaseListByParameter.js",
+		"/C/Users/MUGI-NB/Desktop/botpay/BotPay/src/main/webapp/resources/js/vendor_3.js",
+		"/C/Users/MUGI-NB/Desktop/botpay/BotPay/src/main/webapp/resources/js/vendorBox_multiorder.js",
+		"/C/Users/MUGI-NB/Desktop/botpay/BotPay/src/main/webapp/resources/js/vendorBox_email.js",
+		"/C/Users/MUGI-NB/Desktop/botpay/BotPay/src/main/webapp/resources/js/vendorBox_order.js",
+		"/C/Users/MUGI-NB/Desktop/botpay/BotPay_Internal/src/main/resources/com/bot/pay/Controller/AuthTestController.java",
+		"/C/Users/MUGI-NB/Desktop/botpay/BotPay_Internal/src/main/webapp/resources/js/config.js",
+		"/C/Users/MUGI-NB/Desktop/botpay/BotPay/src/main/webapp/resources/vendor_3.html",
+		"/C/Users/MUGI-NB/AppData/Local/Temp/Rar$DIa0.639/config.js",
+		"/C/Users/MUGI-NB/Desktop/botpay/BotPay/src/main/webapp/resources/js/index2.js",
+		"/C/Users/MUGI-NB/AppData/Local/Temp/Rar$DIa0.144/config.js",
+		"/C/Users/MUGI-NB/AppData/Local/Temp/Rar$DIa0.416/config.js",
+		"/C/Users/MUGI-NB/Desktop/botpay/BotPay_Internal/src/main/webapp/resources/index.html",
+		"/C/Users/MUGI-NB/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/MUGI-NB/AppData/Roaming/Sublime Text 2/Packages/Javascript Beautify/Default (Windows).sublime-keymap",
+		"/C/Users/MUGI-NB/AppData/Local/Temp/Rar$DIa0.086/config.js",
+		"/C/Users/MUGI-NB/Desktop/botpay/BotPay/src/main/webapp/resources/js/cctech/handlebars-botpay.js",
+		"/C/Users/MUGI-NB/Desktop/botpay/BotPay_Internal/src/main/webapp/resources/js/plugin/typeahead/typeahead.js",
+		"/C/Users/MUGI-NB/Desktop/botpay/BotPay/src/main/resources/com/bot/pay/base/BotPayUtil.java",
+		"/C/Users/MUGI-NB/Desktop/botpay/BotPay_Internal/src/main/webapp/resources/js/app.js",
+		"/C/Users/MUGI-NB/Desktop/botpay/BotPay_Internal/src/main/webapp/resources/js/login.js",
+		"/C/Users/MUGI-NB/Desktop/botpay/BotPay_Internal/src/main/resources/com/bot/pay/base/BotPayInternalUserInfo.java",
+		"/C/Users/MUGI-NB/Desktop/index_unlogin.html",
+		"/C/Users/MUGI-NB/Desktop/botpay/BotPay_Internal/src/main/resources/com/bot/pay/Controller/AuthController.java",
+		"/C/Users/MUGI-NB/AppData/Local/Temp/Rar$DRa0.063/register_4.js",
+		"/C/Users/MUGI-NB/Desktop/botpay/BotPay/src/main/webapp/resources/register_4.html",
+		"/C/Users/MUGI-NB/Desktop/botpay/BotPay/src/main/webapp/resources/js/set_7.js",
+		"/C/Users/MUGI-NB/AppData/Local/Temp/Rar$DRa0.220/index.html",
+		"/C/Users/MUGI-NB/Desktop/botpay/BotPay/src/main/resources/com/bot/pay/base/RestClient.java",
+		"/C/Users/MUGI-NB/Desktop/botpay/BotPay/src/main/webapp/resources/js/register_4.js",
+		"/C/Users/MUGI-NB/Desktop/botpay/BotPay_Internal/src/main/webapp/resources/js/rights_ByManager.js",
+		"/C/Users/MUGI-NB/AppData/Local/Temp/Rar$DRa0.807/resources/ajax/customer_service.html",
+		"/C/Users/MUGI-NB/AppData/Local/Temp/Rar$DIa0.610/web_brand.js",
+		"/C/Users/MUGI-NB/AppData/Local/Temp/Rar$DIa0.740/handlebars-botpay.js",
+		"/C/Users/MUGI-NB/Desktop/config.js",
+		"/C/Users/MUGI-NB/AppData/Local/Temp/fz3temp-1/service_add3.html",
+		"/C/Users/MUGI-NB/Desktop/service_add3.html"
+	],
+	"find":
+	{
+		"height": 51.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\MUGI-NB\\Desktop\\botpay,*.js",
+			"C:\\Users\\MUGI-NB\\Desktop\\botpay",
+			"C:\\Users\\MUGI-NB\\Desktop\\botpay,-*.java",
+			"C:\\Users\\MUGI-NB\\Desktop\\botpay",
+			"C:\\Users\\MUGI-NB\\Desktop\\botpay\\BotPay_Internal,*.js",
+			"C:\\Users\\MUGI-NB\\Desktop\\botpay\\BotPay_Internal,*.java",
+			"C:\\Users\\MUGI-NB\\Desktop\\botpay\\BotPay_Internal,*.js",
+			"C:\\Users\\MUGI-NB\\Desktop\\botpay\\BotPay_Internal"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"map",
+			"delay",
+			"seviceId",
+			"destory",
+			"refres",
+			"reload",
+			"replace",
+			"replacce",
+			"access",
+			"log",
+			"login",
+			"剩餘數量",
+			"	",
+			"user_name",
+			"ctrl+alt+f",
+			"roleid",
+			"transtype",
+			"trantype",
+			"tran",
+			"16",
+			"14",
+			"16",
+			"14",
+			"BotPayInternalUserInfo",
+			"tmpName",
+			"uc",
+			"\"uc\"",
+			"uc",
+			"$.login.url",
+			"menu",
+			"auth",
+			"menu",
+			"Auth",
+			"menu",
+			"mu",
+			"munu",
+			"ml",
+			"menulist",
+			"menu",
+			"botpay_caseType",
+			"question_type",
+			"特店信用卡手續費率"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "script.js",
+					"settings":
+					{
+						"buffer_size": 2606,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1786,
+								1786
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 633.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 713,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								603,
+								500
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"servecabypa",
+				"BotPay_Internal/src/main/webapp/resources/js/ServiceCaseListByParameter.js"
+			],
+			[
+				"vendor3js",
+				"BotPay/src/main/webapp/resources/js/vendor_3.js"
+			],
+			[
+				"multijs",
+				"BotPay/src/main/webapp/resources/js/vendorBox_multiorder.js"
+			],
+			[
+				"index2",
+				"BotPay/src/main/webapp/resources/js/index2.js"
+			],
+			[
+				"venboemajs",
+				"BotPay/src/main/webapp/resources/js/vendorBox_email.js"
+			],
+			[
+				"venboorjs",
+				"BotPay/src/main/webapp/resources/js/vendorBox_order.js"
+			],
+			[
+				"configjs",
+				"BotPay_Internal/src/main/webapp/resources/js/config.js"
+			],
+			[
+				"type",
+				"BotPay_Internal/src/main/webapp/resources/js/plugin/typeahead/typeahead.js"
+			],
+			[
+				"handlebot",
+				"BotPay/src/main/webapp/resources/js/cctech/handlebars-botpay.js"
+			],
+			[
+				"authc",
+				"src/main/resources/com/bot/pay/Controller/AuthController.java"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 146.0,
+	"status_bar_visible": true
+}
